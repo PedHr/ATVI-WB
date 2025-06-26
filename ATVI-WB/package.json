@@ -1,0 +1,20 @@
+{
+  "name": "atvi-wb-completo",
+  "version": "1.0.0",
+  "description": "Projeto completo da atividade de sistema de gestão para o grupo World Beauty.",
+  "main": "out/app/main.js",
+  "scripts": {
+    "start": "tsc && node out/app/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/prompt-sync": "^4.1.1",
+    "typescript": "^4.5.2"
+  }
+}
