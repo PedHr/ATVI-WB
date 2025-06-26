@@ -4,17 +4,17 @@
 
 Abra o CMD(Prompt de Comando) e clone o repositório em sua máquina usando o comando abaixo ou baixe o código que está na página do repositório:
 
+Obs: É necessário ter o Node e o Git instalado na sua máquina.
 ``` bash
 git clone https://github.com/PedHr/ATVI-WB.git
 ```
 
-Obs: É necessário ter o Git na sua máquina.
 
-### Para abrir o terminal no Visual Studio Code apertando as teclas:
+### Abra o terminal e vá até a página do projeto
 
-Ctrl + J
-
-Ou vá ao topo da tela do Visual Studio Code, clique em "Terminal" e clique em "New Terminal".
+```bash
+cd ATVI-WB
+```
 
 ### Para instalar os requisítos para a aplicação:
 
