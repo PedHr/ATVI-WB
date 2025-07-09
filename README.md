@@ -4,6 +4,11 @@
 
 Abra o CMD(Prompt de Comando) e clone o repositório em sua máquina usando o comando abaixo ou baixe o código que está na página do repositório:
 
+Versões testada do NODE:
+
+Node 16.20.2
+Node 22.17.0 LTS
+
 Obs: É necessário ter o Node e o Git instalado na sua máquina.
 ``` bash
 git clone https://github.com/PedHr/ATVI-WB.git
